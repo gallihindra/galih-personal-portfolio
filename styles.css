@@ -246,7 +246,7 @@ h3 {
 .metric-strip {
   grid-column: 1 / -1;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   margin-top: 10px;
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
